@@ -22,7 +22,7 @@ export function Home() {
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
-            Learn more
+            PNDC
           </Button>
         </div>
       </Section>
